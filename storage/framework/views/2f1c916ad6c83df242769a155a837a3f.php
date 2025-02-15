@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trial</title>
+</head>
+<body>
+
+<h1> I love Sofie </h1>
+    
+</body>
+</html><?php /**PATH /Users/sofhiadoronila/sql_trial/resources/views/miggy.blade.php ENDPATH**/ ?>
